@@ -9,7 +9,7 @@ To create a new online system to streamline application, secure data, improve ef
 
 ### OVERALL DESCRIPTION:
 The Passport Registration System is an integrated system that has four modules as part of
-it. The four modules are
+it. The four modules are 
 #### Registration for Booking:
 In this module, the user can select the travelling time, place to register for Passport.
 #### Customer details:
